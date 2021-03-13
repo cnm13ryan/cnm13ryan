@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cnm13ryan
 - 👀 I’m interested in learning in generally, just start out computing since 2020 summer.
-- 🌱 I’m currently learning Parallel computing, algorithms and probability.
+- 🌱 I’m currently learning C/C++, algorithms and probability.
 - 💞️ I’m looking to collaborate? Umm, not available at the moment.
 - 📫 How to reach me ? Email: bryanchan406@gmail.com
