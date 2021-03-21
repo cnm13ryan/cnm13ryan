@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @cnm13ryan
 - 👀 I’m interested in learning in generally, just start out computing since 2020 summer.
-- 🌱 I’m currently learning C/C++, algorithms and probability.
+- 🌱 I’m currently learning C/C++, algorithms and probability. 
+- THE GITHUB PROJECTS ARE GOING TOBE POSTONED FOR A WHILE (AROUND 1-2 MONTHS)
+- SINCE I AM GOING TO START TOUCH TYPING FROM SCRATCH.
+- CURRENTLY ABOUT 20WPM
+- AIM FOR OVER 100WPM
 - 💞️ I’m looking to collaborate? Umm, not available at the moment.
 - 📫 How to reach me ? Email: bryanchan406@gmail.com
