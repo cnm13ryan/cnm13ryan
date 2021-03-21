@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/C++, algorithms and probability. 
 - THE GITHUB PROJECTS ARE GOING TOBE POSTONED FOR A WHILE (AROUND 1-2 MONTHS)
 - SINCE I AM GOING TO START TOUCH TYPING FROM SCRATCH.
-- CURRENTLY ABOUT 20WPM
+- CURRENTLY ABOUT 20WPM on typing.com, ratatype
 - AIM FOR OVER 100WPM
 - 💞️ I’m looking to collaborate? Umm, not available at the moment.
 - 📫 How to reach me ? Email: bryanchan406@gmail.com
