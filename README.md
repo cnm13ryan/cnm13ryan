@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @cnm13ryan
 - 👀 I’m interested in learning in generally, just start out computing since 2020 summer.
 - 🌱 I’m currently learning C/C++, algorithms and probability. 
-- THE GITHUB PROJECTS ARE GOING TOBE POSTONED FOR A WHILE (AROUND 1-2 MONTHS)
+- THE POSTING OF GITHUB PROJECTS ARE GOING TO BE ULTIMATELY SLOWED DOWN FOR A WHILE (AROUND 1-2 MONTHS)
 - SINCE I AM GOING TO START TOUCH TYPING FROM SCRATCH.
-- CURRENTLY ABOUT 20WPM on typing.com, ratatype
-- AIM FOR OVER 100WPM
+- CURRENTLY ABOUT 20WPM  21/3/21 on typing.com, ratatype
+- AIM FOR over 60WPM (1 month later)
+- then aim for over 100WPM (2 MONTHS later)
 - 💞️ I’m looking to collaborate? Umm, not available at the moment.
 - 📫 How to reach me ? Email: bryanchan406@gmail.com
