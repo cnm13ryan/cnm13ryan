@@ -4,7 +4,7 @@
 - THE POSTING OF GITHUB PROJECTS ARE GOING TO BE ULTIMATELY SLOWED DOWN FOR A WHILE (AROUND 1-2 MONTHS)
 - SINCE I AM GOING TO START TOUCH TYPING FROM SCRATCH.
 - CURRENTLY ABOUT 20WPM  21/3/21 on typing.com, ratatype
-- CURRENTLY ABOUT 50QPM  3/4/21 on typing.com, ratatype and typingclub
+- CURRENTLY ABOUT 50WPM  3/4/21 on typing.com, ratatype and typingclub
 - AIM FOR over 60WPM (1 month later)
 - then aim for over 100WPM (2 MONTHS later)
 - 💞️ I’m looking to collaborate? Umm, not available at the moment.
