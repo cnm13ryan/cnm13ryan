@@ -5,6 +5,7 @@
 - SINCE I AM GOING TO START TOUCH TYPING FROM SCRATCH.
 - CURRENTLY ABOUT 20WPM  21/3/21 on typing.com, ratatype
 - CURRENTLY ABOUT 50WPM  3/4/21 on typing.com, ratatype and typingclub
+- CURRENTLY ABOUT 60WPM 23/4/21 ON TYPING CLUB
 - AIM FOR over 60WPM (1 month later)
 - then aim for over 100WPM (2 MONTHS later)
 - 💞️ I’m looking to collaborate? Umm, not available at the moment.
