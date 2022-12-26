@@ -4,4 +4,4 @@
 - Future outlooks into learning automatic differentiation techniques, scientific ML.
 - NOTE: GITHUB PROJECTS ARE NOT RELEASED REGULARLY.
 - 💞️ I’m looking to collaborate? Umm, not available at the moment.
-- 📫 How to reach me ? Email: cnm13ryan@gmail.com
+- 📫 How to reach me ? Email: channokman16@gmail.com
