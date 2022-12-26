@@ -3,5 +3,5 @@
 - 🌱 I’m currently practicing on computer alegbra (numeical methods)
 - Future outlooks into learning automatic differentiation techniques, scientific ML.
 - NOTE: GITHUB PROJECTS ARE NOT RELEASED REGULARLY.
-- 💞️ I’m looking to collaborate? Umm, not available at the moment.
+- 💞️ I’m looking to collaborate? Welcome. Please contact me.
 - 📫 How to reach me ? Email: channokman16@gmail.com
