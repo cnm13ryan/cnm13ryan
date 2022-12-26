@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cnm13ryan
-- 👀 I’m interested in learning in generally, just start out computing since 2020 summer.
+- 👀 I’m interested in mathematical analysis and compution in general, just start out computing since 2020 summer.
 - 🌱 I’m currently learning computer alegbra (numeical methods)
 - Future outlooks into learning automatic differentiation techniques, scientific ML.
 - NOTE: GITHUB PROJECTS ARE NOT RELEASED REGULARLY.
