@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cnm13ryan
 - 👀 I’m interested in learning in generally, just start out computing since 2020 summer.
-- 🌱 I’m currently practicing on computer alegbra (numeical methods)
+- 🌱 I’m currently learning computer alegbra (numeical methods)
 - Future outlooks into learning automatic differentiation techniques, scientific ML.
 - NOTE: GITHUB PROJECTS ARE NOT RELEASED REGULARLY.
 - 💞️ I’m looking to collaborate? Welcome. Please contact me.
