@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cnm13ryan
-- 👀 I’m interested in mathematical analysis and compution in general, just start out computing since 2020 summer.
-- 🌱 I’m currently learning computer alegbra (numeical methods)
-- Future outlooks into learning automatic differentiation techniques, scientific ML.
+- 👀 I’m interested in mathematical analysis, algebra and computation in general, just start out programming since 2020 summer.
+- Future outlooks into scientific ML, LLMs
 - NOTE: GITHUB PROJECTS ARE NOT RELEASED REGULARLY.
 - 💞️ I’m looking to collaborate? Welcome. Please contact me.
 - 📫 How to reach me ? Email: channokman16@gmail.com
