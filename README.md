@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cnm13ryan
-- 👀 I’m interested in mathematical analysis, algebra and computation in general, just start out programming since 2020 summer.
-- Future outlooks into scientific ML, LLMs
+- 👀 I’m interested in mathematics, computer science, artificial intelligence.
 - NOTE: GITHUB PROJECTS ARE NOT RELEASED REGULARLY.
 - 💞️ I’m looking to collaborate? Welcome. Please contact me.
 - 📫 How to reach me ? Email: channokman16@gmail.com
