@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cnm13ryan
-- 👀 I’m interested in mathematics, computer science, artificial intelligence.
+- 👀 I’m interested in mathematics and artificial intelligence.
 - NOTE: GITHUB PROJECTS ARE NOT RELEASED REGULARLY.
 - 💞️ I’m looking to collaborate? Welcome. Please contact me.
 - 📫 How to reach me ? Email: channokman16@gmail.com
