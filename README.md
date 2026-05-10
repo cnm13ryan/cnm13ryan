@@ -1,4 +1,4 @@
-# Hi, I’m Bryan 👋
+# Hi, I’m @cnm13ryan 👋
 
 I’m interested in mathematics, artificial intelligence, and technical AI safety.
 
